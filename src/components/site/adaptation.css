@@ -1,0 +1,18 @@
+@media screen and (max-width: 460px){
+    .sect1{gap: 1em;}
+    .txt1{
+        width: 50%; height:20em;
+    }
+    .img {
+        width: 6em; height: 6em; border-radius: 50%; 
+    }
+    .txt2{width: 90%;}
+    .project {
+        width: 13em; height: 6em;
+    }
+    .contact{
+        width: 2.5em; height: 2.5em; 
+    }
+    .contacts{gap: 5em;}
+
+}

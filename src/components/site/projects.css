@@ -1,0 +1,18 @@
+.sect3{
+    color: rgb(215, 203, 203); background-color: rgb(49, 37, 74);
+}
+.pr_cont{
+    display: flex; flex-direction: column; justify-content: center;
+    border: 1px solid rgb(117, 169, 225); border-radius: 5%; padding: 0.2em;
+}
+.projects {
+    display: flex; flex-direction: row;
+    justify-content: center; margin: 1em auto;
+}
+.project {
+    width: 20em; height: 10em;
+}
+.pr_1 {
+    background-image: url(../images/winterwarmth.png); border-radius: 5%;
+    background-repeat: no-repeat; background-position: center; background-size: contain;
+}
