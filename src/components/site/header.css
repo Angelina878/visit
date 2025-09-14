@@ -10,3 +10,9 @@
 .head a:hover{
     color: rgb(166, 155, 208);
 }
+@media screen and (min-width: 1320px) {
+    .head{
+    height: 12rem;
+        font-size: 60px;
+    }
+}

@@ -56,3 +56,19 @@
     background-position: center; background-size: contain;
 
 }
+@media screen and (min-width: 1320px) {
+    .img {
+    width: 50em; height: 50em; 
+   
+}
+.txt1{
+    width: 45%;height: 14em; text-align: left;  font-size: 60px;
+}
+.txt2{
+    width: 45%; text-align: left; font-size: 60px;
+}
+.footer {
+    font-size: 60px;
+}
+
+}
